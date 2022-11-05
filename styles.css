@@ -1,0 +1,50 @@
+body{
+    width:70%;
+    margin:auto;
+}
+figure{
+    float:right;
+    margin-left:50px;
+    width:200px;
+}
+h1,h2,h3{
+    font-family:sans-serif;
+    margin-top: 1.5em;
+    margin-bottom:1em;
+}
+p {
+    font-size:16px;
+}
+figcaption{
+    font-style:oblique;
+}
+#tableeconomy{
+    width:629px;
+}
+#tabledynamics{
+    width:356px;
+}
+#tableeconomy th{
+    text-align:left;
+}
+#caption{
+    caption-side:bottom;
+    font-style:oblique;
+}
+h1{
+    font-size:32px;
+}
+table{
+    border-width:1px;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    border:1px solid black;
+    
+}
+#tableweather{
+    width:800px;
+}
+#base{
+}
