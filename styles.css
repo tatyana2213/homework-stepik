@@ -1,5 +1,5 @@
 body{
-    width:70%;
+    width:65%;
     margin:auto;
 }
 figure{
@@ -45,6 +45,4 @@ th,td{
 }
 #tableweather{
     width:800px;
-}
-#base{
 }
